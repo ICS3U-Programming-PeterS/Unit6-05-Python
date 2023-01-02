@@ -7,6 +7,7 @@
 # the average of the input.
 import math
 
+
 # function calculates the average in the list of elements
 def calc_average(marks):
     median = 0
